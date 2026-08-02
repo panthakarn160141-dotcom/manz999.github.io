@@ -1,0 +1,6 @@
+{
+  "name": "ร้านซ่อมมือถือรัตภูมิByฟู่เฮงโมบาย",
+  "description": "ระบบบันทึกงานซ่อมมือถือ คำนวณทุน-กำไร บันทึกงานร้านส่ง และระบบบริหารอะไหล่ สำหรับร้านซ่อมมือถือรัตภูมิ By ฟู่เฮงโมบาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
